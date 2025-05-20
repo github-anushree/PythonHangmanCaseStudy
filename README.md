@@ -3,8 +3,6 @@
 A classic word guessing game — built with Python from scratch!  
 This project is beginner-friendly, fun, and teaches you core Python concepts through gameplay.
 
-![Hangman ASCII Art](https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Hangman_game.svg/1200px-Hangman_game.svg.png)
-
 ---
 
 ## 🚀 About the Project
